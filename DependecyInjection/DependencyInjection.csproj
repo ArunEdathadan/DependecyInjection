@@ -43,12 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Constructor Injection.cs" />
     <Compile Include="DependecyFamily.cs" />
-    <Compile Include="Method injection.cs" />
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Property injection.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
